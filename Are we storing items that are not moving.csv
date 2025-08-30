@@ -1,0 +1,5 @@
+product_code,product_name,product_line,warehouse_code,quantity_in_stock,total_units_sold,movement_status
+S18_3233,"1985 Toyota Supra","Classic Cars",b,7733,0,"No sales"
+S18_1984,"1995 Honda Civic","Classic Cars",b,9772,917,"Slow moving"
+S24_3432,"2002 Chevy Corvette","Classic Cars",b,9446,894,"Slow moving"
+S32_2206,"1982 Ducati 996 R",Motorcycles,a,9241,906,"Slow moving"
