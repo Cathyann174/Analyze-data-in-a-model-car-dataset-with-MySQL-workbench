@@ -1,0 +1,8 @@
+product_line,warehouse_code,total_inventory,total_sales
+"Classic Cars",b,5851766,3853922.49
+Motorcycles,a,1915517,1121426.12
+Planes,a,1744036,954637.54
+Ships,d,732251,663998.34
+Trains,d,450792,188532.92
+"Trucks and Buses",d,1003828,1024113.57
+"Vintage Cars",c,3439570,1797559.63
