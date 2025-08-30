@@ -1,0 +1,111 @@
+product_code,product_name,product_line,warehouse_code,current_inventory,total_units_sold,inventory_status
+S24_2766,"1949 Jaguar XK 120","Classic Cars",b,2350,949,Balanced
+S24_2887,"1952 Citroen-15CV","Classic Cars",b,1452,873,Balanced
+S18_4721,"1957 Corvette Convertible","Classic Cars",b,1249,1013,Balanced
+S18_4933,"1957 Ford Thunderbird","Classic Cars",b,3209,767,Balanced
+S24_2840,"1958 Chevy Corvette Limited Edition","Classic Cars",b,2542,983,Balanced
+S18_3278,"1969 Dodge Super Bee","Classic Cars",b,1917,974,Balanced
+S12_3891,"1969 Ford Falcon","Classic Cars",b,1049,965,Balanced
+S24_1046,"1970 Chevy Chevelle SS 454","Classic Cars",b,1005,803,Balanced
+S24_1444,"1970 Dodge Coronet","Classic Cars",b,4074,976,Balanced
+S10_4757,"1972 Alfa Romeo GTA","Classic Cars",b,3252,1030,Balanced
+S18_3232,"1992 Ferrari 360 Spider red","Classic Cars",b,8347,1808,Balanced
+S18_1129,"1993 Mazda RX-7","Classic Cars",b,3975,947,Balanced
+S18_2238,"1998 Chrysler Plymouth Prowler","Classic Cars",b,4724,986,Balanced
+S12_1108,"2001 Ferrari Enzo","Classic Cars",b,3619,1019,Balanced
+S18_2625,"1936 Harley Davidson El Knucklehead",Motorcycles,a,4357,945,Balanced
+S32_4485,"1974 Ducati 350 Mk3 Desmo",Motorcycles,a,3341,898,Balanced
+S50_4713,"2002 Yamaha YZR M1",Motorcycles,a,600,992,Balanced
+S24_4278,"1900s Vintage Tri-Plane",Planes,a,2756,1009,Balanced
+S24_1785,"1928 British Royal Navy Airplane",Planes,a,3627,972,Balanced
+S700_3167,"F/A 18 Hornet 1/72",Planes,a,551,1047,Balanced
+S18_2581,"P-51-D Mustang",Planes,a,992,917,Balanced
+S24_2011,"18th century schooner",Ships,d,1898,1011,Balanced
+S18_3029,"1999 Yamaha Speed Boat",Ships,d,4259,966,Balanced
+S700_2047,"HMS Bounty",Ships,d,3501,897,Balanced
+S700_1938,"The Mayflower",Ships,d,737,898,Balanced
+S700_1138,"The Schooner Bluenose",Ships,d,1897,934,Balanced
+S700_3505,"The Titanic",Ships,d,1956,952,Balanced
+S50_1514,"1962 City of Detroit Streetcar",Trains,d,1645,966,Balanced
+S18_2432,"1926 Ford Fire Engine","Trucks and Buses",d,2018,998,Balanced
+S18_1097,"1940 Ford Pickup Truck","Trucks and Buses",d,2613,999,Balanced
+S18_4600,"1940s Ford truck","Trucks and Buses",d,3128,1061,Balanced
+S32_2509,"1954 Greyhound Scenicruiser","Trucks and Buses",d,2874,955,Balanced
+S12_1666,"1958 Setra Bus","Trucks and Buses",d,1579,972,Balanced
+S24_2300,"1962 Volkswagen Microbus","Trucks and Buses",d,2327,1029,Balanced
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger","Trucks and Buses",d,814,988,Balanced
+S50_1392,"Diamond T620 Semi-Skirted Tanker","Trucks and Buses",d,1016,979,Balanced
+S18_3140,"1903 Ford Model A","Vintage Cars",c,3913,883,Balanced
+S18_2248,"1911 Ford Town Car","Vintage Cars",c,540,832,Balanced
+S18_2949,"1913 Ford Model T Speedster","Vintage Cars",c,4189,1038,Balanced
+S18_1749,"1917 Grand Touring Sedan","Vintage Cars",c,2724,918,Balanced
+S18_2795,"1928 Mercedes-Benz SSK","Vintage Cars",c,548,880,Balanced
+S24_4258,"1936 Chrysler Airflow","Vintage Cars",c,4710,983,Balanced
+S24_3969,"1936 Mercedes Benz 500k Roadster","Vintage Cars",c,2081,824,Balanced
+S24_3420,"1937 Horch 930V Limousine","Vintage Cars",c,2902,884,Balanced
+S24_2022,"1938 Cadillac V-16 Presidential Limousine","Vintage Cars",c,2847,955,Balanced
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet","Vintage Cars",c,2378,1076,Balanced
+S18_3233,"1985 Toyota Supra","Classic Cars",b,7733,0,"Low demand"
+S18_1889,"1948 Porsche 356-A Roadster","Classic Cars",b,8826,972,Overstocked
+S18_3685,"1948 Porsche Type 356 Roadster","Classic Cars",b,8990,948,Overstocked
+S10_1949,"1952 Alpine Renault 1300","Classic Cars",b,7305,961,Overstocked
+S24_3856,"1956 Porsche 356A Coupe","Classic Cars",b,6600,1052,Overstocked
+S24_4620,"1961 Chevrolet Impala","Classic Cars",b,7869,941,Overstocked
+S10_4962,"1962 LanciaA Delta 16V","Classic Cars",b,6791,932,Overstocked
+S18_1589,"1965 Aston Martin DB5","Classic Cars",b,9042,914,Overstocked
+S24_1628,"1966 Shelby Cobra 427 S/C","Classic Cars",b,8197,915,Overstocked
+S12_3380,"1968 Dodge Charger","Classic Cars",b,9123,925,Overstocked
+S24_3191,"1969 Chevrolet Camaro Z28","Classic Cars",b,4695,870,Overstocked
+S12_3148,"1969 Corvair Monza","Classic Cars",b,6906,963,Overstocked
+S12_4675,"1969 Dodge Charger","Classic Cars",b,7323,992,Overstocked
+S12_3990,"1970 Plymouth Hemi Cuda","Classic Cars",b,5663,900,Overstocked
+S18_4027,"1970 Triumph Spitfire","Classic Cars",b,5545,945,Overstocked
+S24_3371,"1971 Alpine Renault 1600s","Classic Cars",b,7995,969,Overstocked
+S18_3482,"1976 Ford Gran Torino","Classic Cars",b,9127,915,Overstocked
+S700_2824,"1982 Camaro Z28","Classic Cars",b,6934,997,Overstocked
+S24_2972,"1982 Lamborghini Diablo","Classic Cars",b,7723,912,Overstocked
+S24_4048,"1992 Porsche Cayenne Turbo Silver","Classic Cars",b,6582,867,Overstocked
+S18_1984,"1995 Honda Civic","Classic Cars",b,9772,917,Overstocked
+S18_2870,"1999 Indy 500 Monte Carlo SS","Classic Cars",b,8164,855,Overstocked
+S24_3432,"2002 Chevy Corvette","Classic Cars",b,9446,894,Overstocked
+S18_3782,"1957 Vespa GS150",Motorcycles,a,7689,959,Overstocked
+S10_1678,"1969 Harley Davidson Ultimate Chopper",Motorcycles,a,7933,1057,Overstocked
+S24_2360,"1982 Ducati 900 Monster",Motorcycles,a,6840,947,Overstocked
+S32_2206,"1982 Ducati 996 R",Motorcycles,a,9241,906,Overstocked
+S10_2016,"1996 Moto Guzzi 1100i",Motorcycles,a,6625,999,Overstocked
+S24_1578,"1997 BMW R 1100 S",Motorcycles,a,7003,1033,Overstocked
+S12_2823,"2002 Suzuki XREO",Motorcycles,a,9997,1028,Overstocked
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",Motorcycles,a,5582,985,Overstocked
+S24_2841,"1900s Vintage Bi-Plane",Planes,a,5942,940,Overstocked
+S18_1662,"1980s Black Hawk Helicopter",Planes,a,5330,1040,Overstocked
+S700_2466,"America West Airlines B757-200",Planes,a,9653,984,Overstocked
+S700_1691,"American Airlines: B767-300",Planes,a,5841,894,Overstocked
+S700_4002,"American Airlines: MD-11S",Planes,a,8820,1085,Overstocked
+S700_2834,"ATA: B757-300",Planes,a,7106,973,Overstocked
+S72_1253,"Boeing X-32A JSF",Planes,a,4857,960,Overstocked
+S24_3949,"Corsair F4U ( Bird Cage)",Planes,a,6812,1051,Overstocked
+S700_3962,"The Queen Mary",Ships,d,5088,896,Overstocked
+S700_2610,"The USS Constitution Ship",Ships,d,7083,1020,Overstocked
+S32_3207,"1950's Chicago Surface Lines Streetcar",Trains,d,8601,934,Overstocked
+S18_3259,"Collectable Wooden Train",Trains,d,6450,918,Overstocked
+S12_4473,"1957 Chevy Pickup","Trucks and Buses",d,6125,1056,Overstocked
+S18_2319,"1964 Mercedes Tour Bus","Trucks and Buses",d,8258,1053,Overstocked
+S32_1268,"1980’s GM Manhattan Express","Trucks and Buses",d,5099,911,Overstocked
+S18_3136,"18th Century Vintage Horse Carriage","Vintage Cars",c,5992,907,Overstocked
+S18_4522,"1904 Buick Runabout","Vintage Cars",c,8290,990,Overstocked
+S24_3151,"1912 Ford Model T Delivery Wagon","Vintage Cars",c,9173,991,Overstocked
+S18_3320,"1917 Maxwell Touring Car","Vintage Cars",c,7913,992,Overstocked
+S50_1341,"1930 Buick Marquette Phaeton","Vintage Cars",c,7062,1074,Overstocked
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport","Vintage Cars",c,6553,866,Overstocked
+S18_2325,"1932 Model A Ford J-Coupe","Vintage Cars",c,9354,957,Overstocked
+S18_2957,"1934 Ford V8 Coupe","Vintage Cars",c,5649,985,Overstocked
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster","Vintage Cars",c,8635,960,Overstocked
+S18_1342,"1937 Lincoln Berline","Vintage Cars",c,8693,1111,Overstocked
+S18_4668,"1939 Cadillac Limousine","Vintage Cars",c,6645,995,Overstocked
+S24_1937,"1939 Chevrolet Deluxe Coupe","Vintage Cars",c,7332,937,Overstocked
+S24_3816,"1940 Ford Delivery Sedan","Vintage Cars",c,6621,923,Overstocked
+S12_1099,"1968 Ford Mustang","Classic Cars",b,68,933,"Risk of stockout"
+S24_2000,"1960 BSA Gold Star DBD34",Motorcycles,a,15,1015,"Risk of stockout"
+S32_1374,"1997 BMW F650 ST",Motorcycles,a,178,1014,"Risk of stockout"
+S72_3212,"Pont Yacht",Ships,d,414,958,"Risk of stockout"
+S32_4289,"1928 Ford Phaeton Deluxe","Vintage Cars",c,136,972,"Risk of stockout"
